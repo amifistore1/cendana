@@ -1,7 +1,7 @@
 # INSTALL 
 
 ```
-wget https://github.com/hokagelegend9999/Dor-Paket/raw/refs/heads/main/install
+wget https://github.com/amifistore1/cendana/raw/refs/heads/main/install
 chmod +x install
 ./install
 
@@ -13,7 +13,7 @@ chmod +x install
 
 ```
 rm install-bot
-wget https://github.com/hokagelegend9999/Dor-Paket/raw/refs/heads/main/install-bot
+wget https://github.com/amifistore1/cendana/raw/refs/heads/main/install-bot
 chmod +x install-bot
 ./install-bot
 ```
