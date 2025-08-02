@@ -14,6 +14,6 @@ chmod +x install.txt
 ```
 rm install-bot
 wget https://github.com/amifistore1/cendana/raw/refs/heads/main/install-bot
-chmod +x install-bot.txt
-./install-bot.txt
+chmod +x install-bot
+./install-bot
 ```
